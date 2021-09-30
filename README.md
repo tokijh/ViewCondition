@@ -98,7 +98,7 @@ let package = Package(
   name: "MyAwesomeApp",
   dependencies: [
     .package(url: "https://github.com/tokijh/ViewCondition.git", from: "1.0.0")
-  ]g 
+  ]
 )
 ```
 
